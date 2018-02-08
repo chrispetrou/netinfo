@@ -9,7 +9,7 @@ FG='\033[0;32m'
 FR='\033[1;31m'
 BW='\033[1;97m'
 
-# check for bash version - version snippet taken from:
+# check for bash version - snippet taken from:
 # https://askubuntu.com/questions/916976/bash-one-liner-to-check-if-version-is
 version_above_4(){
     # check if $BASH_VERSION is set at all
