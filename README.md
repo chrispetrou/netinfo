@@ -1,6 +1,6 @@
 ## netinfo
 
-**netinfo.sh** can be used as a simple network utility, and prints out some useful network information such as: 
+**netinfo.sh** is a simple network utility that automates the process of gathering and printing out some basic and useful network information such as: 
 *   mac address
 *   SSID
 *   access point
