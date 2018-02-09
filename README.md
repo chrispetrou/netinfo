@@ -8,7 +8,7 @@
 *   private ip address
 *   public ip address (_makes use of [ipify-api](https://www.ipify.org/)_)
 
-This script has been tested on and designed for **mac os x**. 
+>This script has been tested on and designed for **mac os x**. 
 
 **Requirements:**
 *   bash version 4
